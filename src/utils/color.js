@@ -25,7 +25,7 @@ export const Color = {
     BOX: '#E1E0CD',
     ORANGETH: '#FF9205',
     GREEN:"green",
-
+    CAROUSEL_BACKGROUND: '#F4F5F7',
     // Main Colors
     // PRIMARY: '#62b34c', //APPLE
     PRIMARY_DARK: '#10353A', //FIRE_FLY
@@ -61,7 +61,8 @@ export const Color = {
     // SignIn-SignUp label color
     ACTIVE_COLOR: '#182b56', // DARK_BLUE
     INACTIVE_COLOR: '#325f95', // DARK_MODERATE BLUE
-
+    CIRCLE_BG: '#B7E6E6',
+    
     // Button Color
     // GRADIENT1: '#29B76D',
     // GRADIENT2: '#2A97A6',
